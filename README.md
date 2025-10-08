@@ -14,7 +14,7 @@ This project is a solution to the "Daily Challenge 02" where the goal was to clo
 ## 🚀 Getting Started
 1. **Clone the repository:**
    ```sh
-   git clone <repo-url>
+   git clone https://github.com/AdityaHemantBhat/Cohort-2-Daily_Task_02
    ```
 2. **Open `index.html` in your browser.**
 
